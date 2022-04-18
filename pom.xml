@@ -32,7 +32,7 @@
 					<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>3.8.5</muleVersion>
+						<muleVersion>4.2.2</muleVersion>
 						<username>Muralidharreddy14</username>
 						<password>Murali@12345</password>
 						<applicationName>CICD-murali</applicationName>
