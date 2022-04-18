@@ -31,7 +31,7 @@
 				<extensions>true</extensions>
 					<configuration>
 					<cloudHubDeployment>
-						<uri> https://anypoint.mulesesoft.com</uri>
+						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>3.8.5</muleVersion>
 						<username>Muralidharreddy14</username>
 						<password>Murali@12345</password>
